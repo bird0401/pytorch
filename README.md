@@ -1,0 +1,2 @@
+# study_pytorch
+Based on "つくりながら学ぶ！PyTorchによる発展ディープラーニング"
