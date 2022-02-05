@@ -1,5 +1,9 @@
 # study_pytorch
-Based on "つくりながら学ぶ！PyTorchによる発展ディープラーニング"
+Based on "つくりながら学ぶ！PyTorchによる発展ディープラーニング"  
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/53257509/152636877-e7e3da04-9e05-4387-8de2-7c8c173b77c1.png" width=50%>
+</div>
 
 ## Diary
 **20220202**
