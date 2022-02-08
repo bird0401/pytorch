@@ -16,3 +16,13 @@ Based on "つくりながら学ぶ！PyTorchによる発展ディープラーニ
 - transpose((a,b,c)) can use for more than 2 dims
 - transforms.RandomResizedCrop can resize to any sizes and generate multiple images
 - transforms.RandomHorizontalFlip can reverse the image in half percentage to each image
+
+**20220207**
+- start 2-2, 2-3
+
+**20220207**
+- continue 2-2, 2-3
+
+**20220208**
+- finish 2-2, 2-3
+- start 2-4, 2-5
