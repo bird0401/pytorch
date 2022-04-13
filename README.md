@@ -1,4 +1,4 @@
-# study_pytorch
+# pytorch
 Based on "つくりながら学ぶ！PyTorchによる発展ディープラーニング"  
 
 <div align="center">
